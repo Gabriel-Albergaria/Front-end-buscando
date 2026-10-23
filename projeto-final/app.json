@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Buscando",
+    "slug": "buscando",
+    "androidNavigationBar": {
+      "visible": "immersive"
+    }
+  }
+}
